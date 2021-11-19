@@ -7,6 +7,13 @@
     "puntuacion": 5
  },
  {
+    "nombre": "Johnny Cay", 
+    "urlFoto": "",
+    "comentario": "En este lugar la playa es blanca, abundan las palmeras y existen restaurantes que sirven platos a base de pescado. Así mismo, puedes disfrutar de las presentaciones en vivo de bandas locales que interpretan canciones de reggae.",
+    "descripcion": "Johnny Cay, también conocido localmente como Islote Sucre, es el cayo más grande e importante cercano a la Isla de San Andrés. Tal es su importancia que se nombró como Parque Regional protegido, gracias a su biodiversidad y belleza. Es un paraíso que todo turista debe conocer en el archipiélago. Además de tomar un poco de sol, disfrutar de un Coco Loco, y degustar la gastronomía de la isla, también podrás sumergirte en el azul mar para observar la biodiversidad marina con snorkel, así podrás ver las bellezas de peces y mantarrayas que habitan en sus aguas.",
+    "puntuacion": 4 
+ },
+ {
      "nombre": "",
      "urlFoto": "",
      "comentario": "",
